@@ -54,22 +54,22 @@ function App() {
               <Link to={"/"}>Learn more</Link>
             </button>
             <div className="footer flex gap-8 mt-18 max-[768px]:gap-3 max-[880px]:my-8">
-              <img className="w-15 h-6 mr-8 max-[882px]:w-11 max-[882px]:flex max-[882px]:justify-center max-[882px]:mx-auto max-[882px]:items-center" src="/public/images/client-meet.svg" alt="" />
-              <img className="w-15 h-6 mr-8 max-[882px]:w-11 max-[882px]:flex max-[882px]:justify-center max-[882px]:mx-auto max-[882px]:items-center" src="/public/images/client-maker.svg" alt="" />
+              <img className="w-15 h-6 mr-8 max-[882px]:w-11 max-[882px]:flex max-[882px]:justify-center max-[882px]:mx-auto max-[882px]:items-center" src="/images/client-meet.svg" alt="" />
+              <img className="w-15 h-6 mr-8 max-[882px]:w-11 max-[882px]:flex max-[882px]:justify-center max-[882px]:mx-auto max-[882px]:items-center" src="/images/client-maker.svg" alt="" />
               <img
                 className="w-15 h-6 mr-8 max-[882px]:w-11 max-[882px]:flex max-[882px]:justify-center max-[882px]:mx-auto max-[882px]:items-center"
-                src="/public/images/client-audiophile.svg"
+                src="/images/client-audiophile.svg"
                 alt=""
               />
               <img
                 className="w-15 h-6 mr-8 max-[882px]:w-11 max-[882px]:flex max-[882px]:justify-center max-[882px]:mx-auto max-[882px]:items-center "
-                src="/public/images/client-databiz.svg"
+                src="/images/client-databiz.svg"
                 alt=""
               />
             </div>
           </div>
           <div className="image">
-            <img className="w-83 mt-5 min-[810px]:w-100 " src="/public/images/image-hero-desktop.png" alt=" " />
+            <img className="w-83 mt-5 min-[810px]:w-100 " src="/images/image-hero-desktop.png" alt=" " />
           </div>
         </div>
       </main>
